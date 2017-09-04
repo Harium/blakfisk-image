@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.harium.blakfisk</groupId>
     <artifactId>blakfisk-image</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>BlakFisk Image</name>
     <description>A blakfisk extension to deal with images</description>
