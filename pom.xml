@@ -7,7 +7,7 @@
     <artifactId>blakfisk-image</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>Propan JoGL</name>
+    <name>BlakFisk Image</name>
     <description>A blakfisk extension to deal with images</description>
     <url>http://github.com/harium/blakfisk-image</url>
     <scm>
