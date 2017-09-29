@@ -1,6 +1,6 @@
-package com.harium.blakfisk.codec.image.awt;
+package com.harium.etyl.networking.codec.image.awt;
 
-import com.harium.blakfisk.codec.image.ImageEncoder;
+import com.harium.etyl.networking.codec.image.ImageEncoder;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

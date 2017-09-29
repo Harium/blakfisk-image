@@ -1,4 +1,4 @@
-package com.harium.blakfisk.codec.image;
+package com.harium.etyl.networking.codec.image;
 
 public class CommonImageEncoder {
 

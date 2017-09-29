@@ -1,7 +1,7 @@
-package com.harium.blakfisk.codec.image.awt;
+package com.harium.etyl.networking.codec.image.awt;
 
-import com.harium.blakfisk.codec.image.CommonImageEncoder;
-import com.harium.blakfisk.codec.image.ImageEncoder;
+import com.harium.etyl.networking.codec.image.CommonImageEncoder;
+import com.harium.etyl.networking.codec.image.ImageEncoder;
 import com.harium.blakfisk.util.compression.ImageUtils;
 
 import java.awt.*;

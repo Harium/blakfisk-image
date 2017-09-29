@@ -1,4 +1,4 @@
-package com.harium.blakfisk.codec.image.awt;
+package com.harium.etyl.networking.codec.image.awt;
 
 import java.awt.Point;
 import java.awt.image.BufferedImage;
@@ -9,7 +9,7 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.IntBuffer;
 
-public class BufferedImageDirectEncoder implements com.harium.blakfisk.codec.image.ImageEncoder<BufferedImage> {
+public class BufferedImageDirectEncoder implements com.harium.etyl.networking.codec.image.ImageEncoder<BufferedImage> {
 	
 	private int width;
 	private int height;
