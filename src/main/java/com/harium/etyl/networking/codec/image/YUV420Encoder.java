@@ -1,6 +1,6 @@
 package com.harium.etyl.networking.codec.image;
 
-import com.harium.blakfisk.util.compression.ImageUtils;
+import com.harium.etyl.networking.util.compression.ImageUtils;
 
 public class YUV420Encoder extends CommonImageEncoder implements ImageEncoder<int[]> {
 

@@ -5,15 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.harium.etyl.networking</groupId>
     <artifactId>networking-image</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
     <name>Etyl Networking Image</name>
     <description>A etyl-networking extension to deal with images</description>
-    <url>http://github.com/harium/blakfisk-image</url>
+    <url>http://github.com/harium/etyl-networking-image</url>
     <scm>
-        <connection>scm:git:git://github.com/harium/blakfisk-image.git</connection>
-        <developerConnection>scm:git:ssh://github.com:harium/blakfisk-image.git</developerConnection>
-        <url>http://github.com/harium/blakfisk-image/tree/master</url>
+        <connection>scm:git:git://github.com/harium/etyl-networking-image.git</connection>
+        <developerConnection>scm:git:ssh://github.com:harium/etyl-networking-image.git</developerConnection>
+        <url>http://github.com/harium/etyl-networking-image/tree/master</url>
     </scm>
     <licenses>
         <license>

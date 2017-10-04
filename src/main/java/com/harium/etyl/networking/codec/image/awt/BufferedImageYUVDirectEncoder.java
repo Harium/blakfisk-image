@@ -2,7 +2,7 @@ package com.harium.etyl.networking.codec.image.awt;
 
 import com.harium.etyl.networking.codec.image.CommonImageEncoder;
 import com.harium.etyl.networking.codec.image.ImageEncoder;
-import com.harium.blakfisk.util.compression.ImageUtils;
+import com.harium.etyl.networking.util.compression.ImageUtils;
 
 import java.awt.*;
 import java.awt.image.*;
